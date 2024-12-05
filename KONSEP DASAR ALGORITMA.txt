@@ -1,0 +1,125 @@
+1.1. PENGERTIAN ALGORITMA
+       Algoritma adalah langkah-langkah atau prosedur yang terstruktur dan sistematis untuk menyelesaikan suatu masalah atau mencapai tujuan tertentu. Dalam konteks ilmu komputer, algoritma digunakan untuk memecahkan masalah dengan cara yang efisien dan terorganisir, sehingga bisa diikuti oleh komputer untuk mendapatkan hasil yang diinginkan. Algoritma biasanya terdiri dari urutan instruksi yang jelas, yang dapat dieksekusi dalam waktu terbatas, dan mengubah input menjadi output sesuai dengan aturan yang ditetapkan.
+
+       Secara sederhana, algoritma bisa diibaratkan seperti resep masakan: ada bahan-bahan (input) yang perlu diproses dengan langkah-langkah tertentu untuk menghasilkan hidangan (output). Algoritma juga harus memenuhi beberapa kriteria seperti efektif, tepat, dan dapat diterapkan pada berbagai masalah yang serupa.
+       
+       Algoritma dapat ditemukan dalam banyak aspek kehidupan sehari-hari. Berikut adalah beberapa contoh:
+       
+1. Menyusul Jadwal Harian:
+
+Langkah-langkah untuk menyusun jadwal harian, seperti memilih kegiatan yang akan dilakukan, menetapkan waktu untuk setiap kegiatan, dan memastikan tidak ada tumpang tindih, adalah sebuah algoritma. Proses ini melibatkan langkah-langkah terstruktur untuk mencapai tujuan yakni menjalani hari dengan produktif.
+
+2. Memasak Resep Masakan:
+
+Dalam memasak, resep masakan dapat dianggap sebagai algoritma. Bahan-bahan (input) diproses dengan langkah-langkah tertentu, seperti mengiris, mencampur, atau memasak pada suhu tertentu, untuk menghasilkan hidangan yang diinginkan (output).
+
+3. Rute Perjalan:
+
+Ketika memilih rute perjalanan, misalnya saat menggunakan aplikasi peta, algoritma digunakan untuk mencari jalur tercepat atau terpendek berdasarkan kondisi lalu lintas atau jarak. Langkah-langkah untuk memilih dan mengikuti rute yang optimal adalah bagian dari algoritma.
+
+4. Pengurutan Barang:
+
+Algoritma pengurutan sering digunakan dalam kehidupan sehari-hari, seperti saat kita mengurutkan dokumen atau barang berdasarkan abjad, harga, atau tanggal. Proses ini melibatkan langkah-langkah yang terstruktur untuk menyusun barang dalam urutan yang diinginkan.
+
+5. Pembelian Online:
+
+Ketika berbelanja online, algoritma digunakan dalam memilih produk, memfilter berdasarkan kategori atau harga, dan menentukan metode pembayaran yang sesuai. Setiap tahap dari pencarian hingga checkout adalah bagian dari algoritma yang disusun untuk memberikan pengalaman belanja yang efisien.
+
+6. Menghitung Pengembalian Kembalian:
+
+Ketika berbelanja dan membayar di kasir, kasir menghitung pengembalian kembalian dengan algoritma tertentu, seperti menghitung selisih antara jumlah uang yang dibayar dengan harga barang yang dibeli, lalu memberikan uang kembalian dalam pecahan yang sesuai.
+
+7. Pemrograman Aplikasi di Ponsel:
+
+Ketika Anda menggunakan aplikasi di ponsel, berbagai algoritma berjalan di latar belakang untuk menyelesaikan tugas seperti membuka aplikasi, mengatur tampilan antarmuka, atau memuat data dengan cepat.
+
+8. Penyaringan Pesan Email:
+
+Algoritma digunakan dalam sistem email untuk menyaring dan mengategorikan pesan masuk. Misalnya, algoritma akan memindahkan pesan dari pengirim tertentu ke folder tertentu, atau menandai pesan yang berpotensi spam.
+
+• Definisi Algoritma secara umum berarti: Langkah-langkah yang sistematis dan logis untuk menyelesaikan masalah (INPUT) sehingga menghasilkan penyelesaian (OUTPUT) yang diinginkan.
+
+• Urutan Langkah Langkah yang disusun harus logis dan sistematis untuk memcahkan suatu masalah. Algoritma harus logis atau benar yang artinya algoritma harus memberikan output/hasil yang dikehendaki dari sejumlah masukan yang diberikan. 
+
+
+* Contoh algoritma di kehidupan sehari-hari adalah mesin penjual otomatis (vending machine)
+
+	Input: 
+• Pengguna memasukkan uang atau koin ke dalam mesin.
+• Pengguna memilih produk yang ingin dibeli dengan menekan tombol yang sesuai.
+
+Proses:
+• Mesin menerima uang atau koin dan memeriksa apakah jumlahnya cukup untuk membeli produk yang dipilih.
+• Jika jumlah uang cukup, mesin mengeluarkan produk yang dipilih.
+• Jika jumlah uang kurang, mesin menolak transaksi dan mengembalikan uang yang dimasukkan oleh pengguna.
+• Mesin juga dapat memberikan kembalian jika jumlah uang yang dimasukkan lebih besar dari harga produk.
+       Output: 
+• Jika uang cukup, pengguna menerima produk yang dipilih.
+• Jika uang tidak cukup, pengguna menerima kembalian atau peringatan bahwa uangnya kurang.
+
+Ciri-ciri algoritma yang baik meliputi beberapa aspek penting agar algoritma tersebut dapat bekerja dengan efisien, efektif, dan mudah dipahami. Berikut adalah ciri-ciri algoritma yang baik:
+a. Langkah-langkah yang jelas dan terperinci:
+       Algoritma harus memiliki instruksi atau langkah-langkah yang jelas dan mudah dimengerti tanpa adanya keraguan. Setiap langkah harus menggambarkan tindakan yang spesifik dan terukur.
+       
+b. Finita (Berakhir dalam waktu terbatas):
+       Algoritma harus memiliki titik akhir, artinya algoritma harus berakhir dalam jumlah langkah yang terbatas. Algoritma yang tidak berakhir (infinite loop) adalah algoritma yang salah atau tidak efektif.
+
+c. Efisien:
+       Algoritma yang baik harus menyelesaikan masalah dengan cara yang efisien dalam hal waktu dan penggunaan sumber daya (seperti memori). Algoritma yang membutuhkan waktu yang lebih sedikit atau lebih sedikit langkah lebih baik daripada algoritma yang lebih rumit.
+
+d. Tidak ambigu (Tidak ganda):
+       Setiap langkah dalam algoritma harus memiliki satu arti yang jelas. Tidak boleh ada langkah yang dapat ditafsirkan dengan cara yang berbeda. Kejelasan sangat penting agar algoritma dapat diikuti dengan tepat.
+
+e. Input dan output yang jelas:
+       Algoritma harus menerima input yang jelas dan menghasilkan output yang sesuai dengan tujuan yang ingin dicapai. Proses pengolahan input dan hasil output harus terdefinisi dengan baik.
+
+f. Generalisasi:
+       Algoritma yang baik dapat digunakan untuk memecahkan berbagai masalah serupa, bukan hanya untuk satu masalah khusus. Artinya, algoritma harus fleksibel dan dapat diadaptasi pada berbagai kondisi.
+
+g. Logis dan sistematis:
+       Langkah-langkah dalam algoritma harus disusun secara logis dan sistematis. Proses berpikir harus mengalir dengan urutan yang benar dan tidak melompat-lompat.
+
+h. Dapat diterapkan pada komputer (otomatisasi):
+       Algoritma harus dapat diterjemahkan ke dalam kode pemrograman dan dijalankan oleh komputer untuk mencapai hasil yang diinginkan.
+
+i. Sederhana:
+       Algoritma yang baik tidak perlu rumit. Semakin sederhana dan mudah dipahami, semakin baik. Namun, kesederhanaan tidak berarti mengorbankan keefektifan atau fungsionalitas.
+
+1.2. PENYAJIAN ALGORITMA
+Penyajian algoritma terbagi menjadi:
+• Deskriptif
+• Flowchart
+• Pseudocode
+
+> Deskriptif
+• Penyajian deskriptif adalah penjelasan naratif atau dalam bentuk teks tentang bagaimana algoritma berfungsi.
+• Ini sering digunakan dalam bahasa manusia yang mudah dipahami dan diikuti oleh pengembang atau pembaca algoritma.
+• Deskripsi langkah demi langkah algoritma diberikan dalam bahasa alami atau bahasa pemrograman yang mudah dipahami.
+
+Contoh : misalnya algoritma menentukan bilangan terbesar dari 3 bilangan berikut ini: Algoritma Menentukan_bilangan_terbesar_dari_3_bilangan :
+• Meminta input 3 bilangan dari user, misalkan bilangan a, b, dan c.
+• Apabila bilangan a lebih besar dari b maupun c, maka bilangan a merupakan bilangan terbesar
+• Jika tidak (bilangan a tidak lebih besar dari b atau c) berarti bilangan a sudah pasti bukan bilangan terbesar. Kemungkinannya tinggal bilangan b atau c. Apabila bilangan b lebih besar dari c, maka b merupakan bilangan terbesar. Sebaliknya apabila bilangan b tidak lebih besar dari c, maka bilangan c merupakan yang terbesar.
+• Selesai.
+
+> Flowchart 
+• Flowchart adalah representasi visual dari algoritma dalam bentuk diagram yang terdiri dari simbol-simbol geometris seperti kotak, panah, dan berlian.
+• Setiap simbol mewakili langkah-langkah atau keputusan dalam algoritma, dan panah menghubungkannya untuk menunjukkan alur eksekusi.
+• Flowchart membantu pengguna untuk secara visual melihat aliran logika dan cabang keputusan dalam algoritma.
+
+Berikut adalah simbol dan kegunaan pada flowchart:
+
+	Aturan dalam membuat Flowchart:
+Flowchart digambarkan dari halaman atas ke bawah dan dari kiri kekanan.
+• Aktivitas yang digambarkan harus didefinisikan secara hati-hati dan definisi ini harus dapat di mengerti oleh pembacanya.
+• Kapan aktivitas dimulai dan berakhir harus ditentukan secara jelas.
+• Setiap langkah dari aktivitas harus diuraikan dengan menggunakan deskripsi kata kerja.
+• Setiap langkah dari aktivitas harus berada pada urutan yang benar.
+• Lingkup dan range dari aktifitas yang sedang digambarkan harusditelusuri dengan hati-hati. Percabangan-percabangan yang memotong aktivitas yang sedang digambarkan tidak perlu digambarkan pada flowchart yang sama. Simbol konektor harus digunakan dan percabangannya diletakan pada halaman yang terpisah atau hilangkan seluruhnya bila percabangannya tidak berkaitan dengan sistem.
+• Gunakan simbol-simbol flowchart yang standar.
+
+> Pseudocode 
+	Pseudocode adalah sebuah metode penulisan menggunakan bahasa sederhana untuk mengekspresikan desain algoritma. Pseudocode bermanfaat untuk mempermudah manusia untuk memahami algoritma karena lebih mudah dipahami dibandingkan dengan bahasa pemrograman. Penulisan pseudocode tidak memiliki aturan pasti namun harus logis. 
+
+	Secara umum, pseudocode akan berisi tiga bagian utama ini yang saling mendukung dalam menyusun algoritma yang jelas, mudah dipahami, dan terstruktur. Sebuah pseudocode yang baik akan menunjukkan bagaimana input diproses untuk menghasilkan output dengan jelas, serta bagaimana kontrol alur bekerja untuk mengambil keputusan atau mengulangi proses tertentu.
+
